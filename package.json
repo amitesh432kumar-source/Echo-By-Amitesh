@@ -1,0 +1,7 @@
+{
+  "name": "echo-by-amitesh",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Echo by Amitesh: a chat web app with a Claude / Gemini switch",
+  "engines": { "node": ">=18" }
+}
